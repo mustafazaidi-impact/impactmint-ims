@@ -22,6 +22,17 @@ It enables **credible, high-quality impact data** to flow into them.
 
 ---
 
+## 🔒 Full Platform Code — Judge Access
+
+The complete platform source code and architecture documentation are in a 
+private repository. Access has been granted to Colosseum judges.
+
+👉 https://github.com/mustafazaidi-impact/impactmint-platform
+
+Questions: mustafa.zaidi@getmedloop.com
+
+---
+
 ## Why IMS exists
 
 Regulators and markets are moving away from *tick-box ESG* toward **decision-useful, verifiable sustainability data**.
