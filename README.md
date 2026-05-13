@@ -27,7 +27,7 @@ It enables **credible, high-quality impact data** to flow into them.
 The complete platform source code and architecture documentation are in a 
 private repository. Access has been granted to Colosseum judges.
 
-👉 https://github.com/mustafazaidi-impact/impactmint-platform
+👉https://github.com/mustafazaidi-impact/ImpactMint-Platform-Architecture
 
 Questions: mustafa.zaidi@getmedloop.com
 
